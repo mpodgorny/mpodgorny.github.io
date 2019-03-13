@@ -1,3 +1,21 @@
+
+__“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”__ – Dan Salomon
+
+### Current curses
+- Reliable Systems
+- Mobile Applications
+- Concurrent Programming
+
+### Programming lanugages
+- Java
+- C
+- Kotlin
+- Ada, SPARK
+- Go
+
+### My interests
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mpodgorny/mpodgorny.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
