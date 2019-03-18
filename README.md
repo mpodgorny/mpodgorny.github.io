@@ -1,55 +1,43 @@
 
 __“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”__ – Dan Salomon
 
+Hi! I'm currently in my second year pursuing engineering degree in computer science at Wrocław University of Technology, Faculty of Fundamental Problems of Technology [faculty page](http://wppt.pwr.edu.pl/). Here are some interesting curses i worked or am currently working on during my studies:
+
 ### Current curses
-- Reliable Systems
-- Mobile Applications
-- Concurrent Programming
+- **Reliable Systems**
+Creating reliable, predictable and safe software using SPARK (subset of Ada) programming language.
+- **Mobile Applications**
+Developing android applicatons using Kotlin language and the most recent technologies in mobile enviroment.
+- **Concurrent Programming**
+Learning alogorithms and solving problems in councurrent programming, using Go and Ada languages.  
+- **Algorithms and Data Structures**
+One of the most important (and interesting) curse during our studies. Graphs, divide-and-conquer algorithms, and much more. Also, implementing obtained knowledge in selected language (currently working in C).
 
-### Programming lanugages
+### Completed curses
+- **Data Bases and Information Management**
+MySql, optimalization, connectors.
+- **Computer Architecture and Operating Systems**
+Deep knowledge of Unix-like systems, C programming and Bash scripts.
+- **Probability and Statistics**
+Math - from variance to normal distribution.
+
+### Programming skills
 - Java
-- C
 - Kotlin
-- Ada, SPARK
+- C
+- Ada
 - Go
+- Bash
+- MySql
 
-### My interests
+### Currently working on
+Getting my work of 1 year systematized and pushed to GitHub (besides studying, duh).
+
+BUILDING: 
+### My IT interests
 
 
-## Welcome to GitHub Pages
+### My repositories
 
-You can use the [editor on GitHub](https://github.com/mpodgorny/mpodgorny.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mpodgorny/mpodgorny.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Useful links
