@@ -25,7 +25,8 @@ Deep knowledge of Unix-like systems, C programming and Bash scripts.
 
 Math - from variance to normal distribution.
 
-### Programming skills
+**In conclusion**, I feel confident (mastering, learning specific topics will be much faster) i.a. in those fields:
+
 - Java
 - Kotlin
 - C
