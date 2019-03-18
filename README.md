@@ -24,6 +24,9 @@ Deep knowledge of Unix-like systems, C programming and Bash scripts.
 - **Probability and Statistics**
 
 Math - from variance to normal distribution.
+- **Programming** and **Programming Technology**
+
+Mainly java programming, software development.
 
 **In conclusion**, I feel confident (mastering, learning specific topics will be much faster) i.a. in those fields:
 
