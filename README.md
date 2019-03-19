@@ -1,4 +1,4 @@
-Here are some interesting curses i worked or am currently working on during my studies:
+Here are some interesting curses i was or am currently working on during my studies:
 
 ### Current curses
 - **Reliable Systems**
