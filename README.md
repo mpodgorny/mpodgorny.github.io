@@ -1,4 +1,4 @@
-**Hi!** I'm currently in my second year pursuing engineering degree in computer science at Wrocław University of Technology, Faculty of Fundamental Problems of Technology [(website)](http://wppt.pwr.edu.pl/). Here are some interesting curses i worked or am currently working on during my studies:
+Here are some interesting curses i worked or am currently working on during my studies:
 
 ### Current curses
 - **Reliable Systems**
