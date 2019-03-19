@@ -42,13 +42,13 @@ Mainly java programming, software development.
 - [Chinesee Checkers](https://github.com/mpodgorny/Trylma) - Project made in pairs, using Java (SDK 8) in client-server architecture.
 - [Computer Architecture](https://github.com/mpodgorny/AKiSO) - Tasks completed for this course, involving C and Bash scripts.
 - [Algorithms and Data Structures](https://github.com/mpodgorny/Algorytmy-i-Struktury-Danych) - Code for ongoing course.
+
 ### Currently working on
 Getting my work of 1 year systematized and pushed to GitHub (besides studying, duh).
  
 ### My IT interests
 - Reading __Introduction to Algorithms__(T.H. Cormen) in trams.
 - Better understandment of C language.
-
 
 
 __“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”__ – Dan Salomon
