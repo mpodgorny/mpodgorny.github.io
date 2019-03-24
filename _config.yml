@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Michał Podgórny
-logo: mpodgorny.github.io/20190213_072512.jpg
+logo: <img src="mpodgorny.github.io/20190213_072512.jpg" height="400" />
 description: <b>Hi!</b> I'm currently in my second year pursuing engineering degree in computer science at Wrocław University of Technology, Faculty of Fundamental Problems of Technology <a href="http://ki.pwr.edu.pl/index.php?lang=eng">(website)</a>.
 google_analytics: UA-136591401-1
